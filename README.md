@@ -8,6 +8,18 @@ Hyperfocus-writing in Vim.
 Best served with [Goyo.vim](https://github.com/junegunn/goyo.vim).
 Works on 256-color terminal or on GVim.
 
+Changes to upstream
+-------------------
+
+This is not the upstream source. It's a fork to fix some bugs that are not
+incorporated into upstream yet. If you are searching for the non-patched
+upstream see http://github.com/junegunn/limelight.vim.
+
+The following pull requests are integrated in this fork:
+
+ - [Allow buffer local settings of bop and eop](http://github.com/junegunn/limelight.vim/pull/62)
+
+
 Usage
 -----
 
